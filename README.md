@@ -6,6 +6,7 @@ Atualmente
 - Faço parte da UfrBots
 - Iniciação cientifica 
 
-## coisas
+## pessoal
+## feliz
 
 ![ imagem](https://media.giphy.com/media/xvdgs8BNJ9z0u9bL69/giphy.gif)
