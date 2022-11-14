@@ -5,3 +5,7 @@ Olá, tudo bem? sou vitor estou aqui na campus e vim da bahia sou estudante de e
 Atualmente 
 - Faço parte da UfrBots
 - Iniciação cientifica 
+
+## coisas
+
+![ imagem](https://media.giphy.com/media/xvdgs8BNJ9z0u9bL69/giphy.gif)
